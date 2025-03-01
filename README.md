@@ -1,2 +1,2 @@
 # Delta
-This is for delta
+This is for delta.
